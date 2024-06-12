@@ -1,0 +1,16 @@
+name: optional
+version: 1.0.0
+description: A wrapper for optional values forwarding to functions.
+repository: https://github.com/RightBrainPro/optional
+issue_tracker: https://github.com/RightBrainPro/optional/issues
+
+publish_to: https://rightbrain.pro/host
+
+environment:
+  sdk: ^3.4.0
+
+dependencies: null
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.25.7
