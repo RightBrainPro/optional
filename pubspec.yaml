@@ -4,7 +4,7 @@ description: A wrapper for optional values forwarding to functions.
 repository: https://github.com/RightBrainPro/optional
 issue_tracker: https://github.com/RightBrainPro/optional/issues
 
-publish_to: https://rightbrain.pro/host
+publish_to: https://pub.rightbrain.pro
 
 environment:
   sdk: ^3.4.0
